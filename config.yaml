@@ -1,29 +1,27 @@
 title: Stackbit Azimuth Theme
 baseURL: /
 params:
-  palette: blue
+  palette: orange
   header:
-    title: Azimuth
-    logo_img: images/logo.png
-    has_nav: true
+    title: RefRef
+    has_nav: false
     menu:
       actions:
         - label: Sign Up
           url: /signup
   footer:
-    logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
-    has_nav: true
+    tagline: RefRef - Referee Reference
+    has_nav: false
     nav_title: Company
-    has_social: true
+    has_social: false
     social_title: Community
     has_subscribe: true
-    subscribe_title: Subscribe
-    subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Stackbit. All rights reserved.'
+    subscribe_title: Subscribe to updates
+    subscribe_content: Get an updated version emailed to you whenever changes are made by FIBA.
+    content: 
     links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+      - text: Reproduced from FIBA
+        url: 'https://www.fiba.basketball/documents'
         new_window: true
 disableKinds:
   - RSS
