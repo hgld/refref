@@ -18,9 +18,9 @@ params:
     has_subscribe: true
     subscribe_title: Subscribe to updates
     subscribe_content: Get an updated version emailed to you whenever changes are made by FIBA.
-    content: 
+    content: All content reproduced from 
     links:
-      - text: Reproduced from FIBA
+      - text: FIBA
         url: 'https://www.fiba.basketball/documents'
         new_window: true
 disableKinds:
