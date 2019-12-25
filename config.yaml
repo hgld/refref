@@ -27,4 +27,3 @@ disableKinds:
   - RSS
   - taxonomy
   - taxonomyTerm
-enableRobotsTXT: true
