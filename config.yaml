@@ -1,4 +1,4 @@
-title: Stackbit Azimuth Theme
+title: FIBA Rulebook designed for smartphones in ePub format
 baseURL: /
 params:
   palette: orange
@@ -27,3 +27,4 @@ disableKinds:
   - RSS
   - taxonomy
   - taxonomyTerm
+enableRobotsTXT: true

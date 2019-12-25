@@ -1,93 +1,56 @@
 ---
-title: Home
+title: RefRef
 sections:
   - type: section_hero
     template: section_hero
     section_id: hero
     title: FIBA Rulebook designed for smartphones
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+      Choose the text size you want. Quickly jump to sections using an interactive table of contents and index. Add your own highlights and notes. 
+    image: images/article.png
     actions:
-      - label: Learn More
-        url: /features
-      - label: Download ePub
+      - label: Download
         url: /downloads/FIBA_Official_Basketball_Rules_2018.epub
   - type: section_features
     template: section_features
     section_id: features
-    title: Features
+    title: Benefits
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Trying to read the PDF version of the rulebook on your smartphone is like trying to read through a keyhole. This new format is more accessible and has additional other features.
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Easier to Read 
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+          Customise the text size, background, and typeface to suit your needs. 
+        image: images/textsize.png
         actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
+        - label: Download
+          url: /downloads/FIBA_Official_Basketball_Rules_2018.epub
+      - title: Quicker to Navigate
+        content: >-
+          Find what you're looking for quickly by using the interactive table of contents and index. Jump to sections in tap. No more swiping to find the page you're looking for.
+        image: images/toc.png
+        actions:
+        - label: Download
+          url: /downloads/FIBA_Official_Basketball_Rules_2018.epub
+      - title: Add Highlighting and Notes
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
-        image: images/feature2.png
+        image: images/highlight.png
         actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-  - type: section_reviews
-    template: section_reviews
-    section_id: reviews
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    bg: white
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        - label: Download
+          url: /downloads/FIBA_Official_Basketball_Rules_2018.epub
+        
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Rulebook Updates
+    subtitle: The rulebook is revised every year. You can sign up to receive updates emailed to you.
     actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
-    template: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    bg: gray
+      - label: Yes, email me updates
+        url: http://eepurl.com/gN5tEf
 menu:
   main:
     name: Home
