@@ -7,7 +7,7 @@ sections:
   title: FIBA Rulebook designed for smartphones
   content: 'Choose the text size you want. Quickly jump to sections using an interactive
     table of contents and index. Add your own highlights and notes. '
-  image: images/article.png
+  image: images/hero.png
   actions:
   - label: Download
     url: "/downloads/FIBA_Official_Basketball_Rules_2018.epub"
@@ -15,9 +15,7 @@ sections:
   template: section_features
   section_id: features
   title: Benefits
-  subtitle: Trying to read the PDF version of the rulebook on your smartphone is like
-    trying to read through a keyhole. This new format is more accessible and has additional
-    other features.
+  subtitle: It can sometimes be difficult to read a PDF version of the rulebook on a small smartphone screen. This new format has the same FIBA content but in a new accessible format.
   bg: gray
   featureslist:
   - title: Easier to Read
@@ -35,8 +33,7 @@ sections:
     - label: Download
       url: "/downloads/FIBA_Official_Basketball_Rules_2018.epub"
   - title: Add Highlighting and Notes
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+    content: Depending on your phone's eBook software, you can annotate the rules with highlighting and notes. 
     image: images/highlight.png
     actions:
     - label: Download
