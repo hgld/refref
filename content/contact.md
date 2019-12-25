@@ -11,6 +11,10 @@ sections:
       tortor pretium ligula.
     bg: gray
 menu:
+  main:
+    name: asdfj
+    weight: 3
+menu:
   secondary:
     name: Contact
     weight: 3
