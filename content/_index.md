@@ -15,7 +15,9 @@ sections:
   template: section_features
   section_id: features
   title: Benefits
-  subtitle: It can sometimes be difficult to read a PDF version of the rulebook on a small smartphone screen. This new format has the same FIBA content but in a new accessible format.
+  subtitle: It can sometimes be difficult to read a PDF version of the rulebook on
+    a small smartphone screen. This new format has the same FIBA content but in a
+    new accessible format.
   bg: gray
   featureslist:
   - title: Easier to Read
@@ -33,7 +35,8 @@ sections:
     - label: Download
       url: "/downloads/FIBA_Official_Basketball_Rules_2018.epub"
   - title: Add Highlighting and Notes
-    content: Depending on your phone's eBook software, you can annotate the rules with highlighting and notes. 
+    content: Depending on your phone's eBook software, you can annotate the rules
+      with highlighting and notes.
     image: images/highlight.png
     actions:
     - label: Download

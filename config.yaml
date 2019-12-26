@@ -32,3 +32,8 @@ disableKinds:
 - taxonomyTerm
 enableRobotsTXT: true
 googleAnalytics: UA-127570-18
+menu:
+  secondary:
+  - url: https://paypal.me/pools/c/8l7puVzr2v
+    name: Donate
+    weight: 2
