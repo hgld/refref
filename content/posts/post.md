@@ -7,7 +7,6 @@ img_path: ''
 excerpt: The Chinese are more British than the Brits according to online research
   based on the UK's British citizenship test.
 layout: post
-draft: true
 
 ---
 The Chinese are more British than the Brits according to online research based on the UK's British citizenship test.
