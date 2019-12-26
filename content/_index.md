@@ -4,7 +4,7 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: FIBA Rulebook designed for smartphones
+  title: FIBA Rule Book designed for smartphones
   content: 'Choose the text size you want. Quickly jump to sections using an interactive
     table of contents and index. Add your own highlights and notes. '
   image: images/hero.png
@@ -53,7 +53,7 @@ sections:
 layout: landing
 menu:
   main:
-    name: Home
+    name: Rules
     weight: 1
 
 ---

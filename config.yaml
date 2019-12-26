@@ -8,8 +8,8 @@ params:
     has_nav: true
     menu:
       actions:
-      - label: Download
-        url: "/downloads/FIBA_Official_Basketball_Rules_2018.epub"
+      - label: Contact
+        url: /contact
   footer:
     tagline: RefRef (short for Referee Reference) is a website dedicated to providing
       useful resources to FIBA referees.
