@@ -31,3 +31,4 @@ disableKinds:
 - taxonomy
 - taxonomyTerm
 enableRobotsTXT: true
+googleAnalytics: UA-127570-18
