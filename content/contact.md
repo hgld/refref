@@ -5,9 +5,7 @@ sections:
   template: section_contact
   section_id: contact
   title: Contact
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor
-    pretium ligula.
+  content: Complete the form below if you have any question or comments about RefRef.
   bg: gray
 layout: landing
 menu:
