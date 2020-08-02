@@ -9,7 +9,7 @@ sections:
     table of contents and index. Add your own highlights and notes. '
   image: images/hero.png
   actions:
-  - label: Download
+  - label: Download 2020 Edition
     url: "/downloads/FIBA_Official_Basketball_Rules_2020.epub"
 - type: section_features
   template: section_features
@@ -32,7 +32,7 @@ sections:
       you're looking for.
     image: images/toc.png
     actions:
-    - label: Download
+    - label: Download 2020 Edition
       url: "/downloads/FIBA_Official_Basketball_Rules_2020.epub"
   - title: Add Highlighting and Notes
     content: Depending on your phone's eBook software, you can annotate the rules
