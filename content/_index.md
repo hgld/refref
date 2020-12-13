@@ -32,7 +32,7 @@ sections:
       you're looking for.
     image: images/toc.png
     actions:
-    - label: Download 2020 Edition
+    - label: Download
       url: "/downloads/FIBA_Official_Basketball_Rules.epub"
   - title: Add Highlighting and Notes
     content: Depending on your phone's eBook software, you can annotate the rules
