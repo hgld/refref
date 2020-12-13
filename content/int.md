@@ -16,7 +16,7 @@ sections:
   bg: gray
   actions:
   - label: Download
-    url: "/downloads/OBRI-Official_Interpretations_2018.epub"
+    url: "/downloads/OBRI-Official_Interpretations.epub"
 layout: landing
 menu:
   main:

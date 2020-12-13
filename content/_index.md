@@ -10,7 +10,7 @@ sections:
   image: images/hero.png
   actions:
   - label: Download 2020 Edition
-    url: "/downloads/FIBA_Official_Basketball_Rules_2020.epub"
+    url: "/downloads/FIBA_Official_Basketball_Rules.epub"
 - type: section_features
   template: section_features
   section_id: features
@@ -25,7 +25,7 @@ sections:
     image: images/textsize.png
     actions:
     - label: Download
-      url: "/downloads/FIBA_Official_Basketball_Rules_2020.epub"
+      url: "/downloads/FIBA_Official_Basketball_Rules.epub"
   - title: Quicker to Navigate
     content: Find what you're looking for quickly by using the interactive table of
       contents and index. Jump to sections in tap. No more swiping to find the page
@@ -33,14 +33,14 @@ sections:
     image: images/toc.png
     actions:
     - label: Download 2020 Edition
-      url: "/downloads/FIBA_Official_Basketball_Rules_2020.epub"
+      url: "/downloads/FIBA_Official_Basketball_Rules.epub"
   - title: Add Highlighting and Notes
     content: Depending on your phone's eBook software, you can annotate the rules
       with highlighting and notes.
     image: images/highlight.png
     actions:
     - label: Download
-      url: "/downloads/FIBA_Official_Basketball_Rules_2020.epub"
+      url: "/downloads/FIBA_Official_Basketball_Rules.epub"
 - type: section_cta
   template: section_cta
   section_id: call-to-action
